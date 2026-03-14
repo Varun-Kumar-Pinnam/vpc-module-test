@@ -6,8 +6,8 @@
     value = module.vpc.igw_id  
 }
  */
-output "default_vpc" {
+/* output "default_vpc" {
 
     value = module.vpc.default_vpc
   
-}
+} */
